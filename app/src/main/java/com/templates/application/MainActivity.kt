@@ -2,8 +2,7 @@ package com.templates.application
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.support.v
-7.widget.RecyclerView
+import android.support.v7.widget.RecyclerView
 
 
 class MainActivity : AppCompatActivity() {
